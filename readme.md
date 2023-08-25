@@ -1,6 +1,6 @@
 # Clean, minimal profile card HTML template.
 
-![Raivis Vitols - Personal Website](https://i.imgur.com/2qam3C6.png)
+![Raivis Vitols - Personal Website](https://i.imgur.com/fhl7fJE.jpg)
 
 ## Template Demo
 
